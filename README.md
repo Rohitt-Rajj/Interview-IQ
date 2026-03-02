@@ -9,6 +9,7 @@ An AI-powered interview preparation platform that helps you practice and ace you
 - 📊 Performance tracking & analytics
 - 🗄️ MongoDB database integration
 - ⚡ Fast and responsive UI
+<img width="1898" height="930" alt="Screenshot from 2026-03-02 14-29-24" src="https://github.com/user-attachments/assets/05fab769-2ae5-49a2-aef6-e0107ed4e9b2" />
 
 ## 🛠️ Tech Stack
 
